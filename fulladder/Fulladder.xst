@@ -1,0 +1,5 @@
+set -tmpdir "D:/xilinx/vivadoo/vivadodev/fulladder/xst/projnav.tmp"
+set -xsthdpdir "D:/xilinx/vivadoo/vivadodev/fulladder/xst"
+elaborate
+-ifn Fulladder.prj
+-ifmt mixed
